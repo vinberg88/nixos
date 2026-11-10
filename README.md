@@ -6,7 +6,7 @@ NixOS is an independently developed GNU/Linux distribution that aims to improve 
 
 ---
 
-Gnome Desktop for NIXOS
+Gnome Desktop for NIXOS and WSL
 
 <p align="center">
 <a href="https://github.com/vinberg88">
